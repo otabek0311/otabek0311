@@ -10,7 +10,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/@Otabek_Abdullayevvvv" target="_blank">
+  <a href="https://t.me/Otabek_Abdullayevvvv" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
   </a>
 
