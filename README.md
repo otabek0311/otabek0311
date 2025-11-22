@@ -31,8 +31,8 @@
 <p align="left">
   <!-- NestJS -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nestjs/artwork/master/logo/logo.svg" alt="nestjs" width="40" height="40"/>
-  </a>
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1024-72j0t7ux.png" alt="nestjs" width="40" height="40"/>
+
 
   <!-- Node.js -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
