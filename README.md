@@ -5,7 +5,7 @@
 <p align="left">
 
   <!-- Instagram -->
-  <a href="https://instagram.com/@otabek__0311" target="_blank">
+  <a href="https://instagram.com/otabek__0311" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
   </a>
 
