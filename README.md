@@ -1,5 +1,5 @@
 <h1 align="center"Abdullayev Otabek</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">Backend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
