@@ -2,7 +2,24 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> </p>
+<p align="left">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/@otabek__0311" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/@Otabek_Abdullayevvvv" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+998992530311">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" width="40" height="40"/>
+  </a>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
