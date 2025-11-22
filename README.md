@@ -14,13 +14,18 @@
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="40" height="40"/>
   </a>
 
-  <!-- Phone -->
+  
+
+</p>
+
+<h3 align="left">Phone number:</h3>
+
+<!-- Phone -->
   <a href="tel:+998992530311" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
   <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" width="30" height="30"/>
   <span>+998 99 253 03 11</span>
 </a>
 
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
